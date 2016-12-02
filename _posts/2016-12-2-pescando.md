@@ -16,7 +16,7 @@ magia en tu navegador.
 Para intentar engañarte los criminales han estado dándole vueltas a la cabeza y utilizan algunos trucos como utilizar direcciones muy
 parecidas a las legítimas, pero cuando decimos parecidas es que hay que fijarse, por ejemplo si quieren que pienses que estás accediendo
 a la dirección "abanca.com" no utilizarán direcciones como "avanca.com" sino que son mas sutiles y utilizan otros caracteres muchos mas
-parecidos. ¿ dirías que http://www.google.es y http://www.googIe.es son iguales ? pues casi porque en realidad en el segundo caso lo que debería
+parecidos. ¿ dirías que [google.es](http://www.google.es) y [googIe.es](http://www.googIe.es) son iguales ? pues casi porque en realidad en el segundo caso lo que debería
 ser una ele minúscula es una i mayúscula, y hay trucos aún mas sutiles :)
 
 Así que para que no te pesquen lo mejor es que no habras correos que no son para ti aunque el asunto sea "fotos del otro día", recuerda
