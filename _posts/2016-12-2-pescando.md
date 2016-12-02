@@ -19,7 +19,7 @@ a la dirección "abanca.com" no utilizarán direcciones como "avanca.com" sino q
 parecidos. ¿ dirías que [google.es](http://www.google.es) y [googIe.es](http://www.googIe.es) son iguales ? pues casi porque en realidad en el segundo caso lo que debería
 ser una ele minúscula es una i mayúscula, y hay trucos aún mas sutiles :)
 
-Así que para que no te pesquen lo mejor es que no habras correos que no son para ti aunque el asunto sea "fotos del otro día", recuerda
+Así que para que no te pesquen lo mejor es que no abras correos que no son para ti aunque el asunto sea "fotos del otro día", recuerda
 la curiosidad mató al gato ¬¬ .
 
 Tampoco accedas a tus cuentas del banco desde el correo haciendo clic en algún enlace, escribe tu la dirección del banco en la barra
